@@ -1,8 +1,8 @@
 {
     "server":"127.0.0.1",
-    "server_port":8388,
+    "server_port":1053,
     "local_port":1080,
-    "password":"barfoo!",
-    "method": "aes-128-cfb",
+    "password":"a12345678!",
+    "method": "aes-256-cfb",
     "timeout":600
 }
